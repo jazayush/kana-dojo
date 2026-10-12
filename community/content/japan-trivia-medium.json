@@ -284,11 +284,22 @@
     "Fuji TV"
   ],
   "correctIndex": 0
-},
+  },
   {
     "question": "Which Japanese city is famous for the Gion Matsuri festival?",
     "difficulty": "medium",
     "answers": ["Kyoto", "Nagoya", "Hiroshima", "Sendai"],
     "correctIndex": 0
-  }
+  },
+  {
+  "question": "What is the traditional Japanese tea ceremony called? (Community variation 19)",
+  "difficulty": "medium",
+  "answers": [
+    "Sado",
+    "Judo",
+    "Kendo",
+    "Shodo"
+  ],
+  "correctIndex": 0
+}
 ]
