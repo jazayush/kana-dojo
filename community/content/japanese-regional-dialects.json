@@ -411,5 +411,12 @@
     "english": "but / however",
     "region": "Kumamoto (Kyushu)",
     "note": "Common sentence-ending conjunction in Kumamoto dialect. (Set 5)"
-  }
+  },
+  {
+    "dialect": "ぶち",
+    "standardJapanese": "とても",
+    "english": "very",
+    "region": "Yamaguchi/Hiroshima",
+    "note": "Regional intensifier. (Set 6)"
+}
 ]
